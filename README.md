@@ -142,10 +142,10 @@ npx playwright test -g "complete valid checkout"
 
 ---
 
-## 📄 Manual Test Case Document
+## Manual Test Case Document
 
-A companion Word document (`SauceDemo_TestCase_Document.docx`) with 62 structured manual test cases (covering Login, Add to Cart, Remove from Cart, and Checkout) is available in the project root.
+A companion Word document (`SauceDemo_TestCase_Document.docx`) with 65 structured manual test cases (covering Login, Add to Cart, Remove from Cart, and Checkout) is available in the project root.
 
 ---
 
-*Prepared by: Gideon Adelaja — QA Engineer / Software Tester*
+Prepared by: Gideon Adelaja — QA
