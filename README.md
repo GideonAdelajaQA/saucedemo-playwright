@@ -6,7 +6,7 @@
 
 ---
 
-## 📁 Project Structure
+## Structure
 
 ```
 saucedemo-playwright/
@@ -27,7 +27,7 @@ saucedemo-playwright/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18+
@@ -49,7 +49,7 @@ npx playwright install
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 | Command | Description |
 |---------|-------------|
@@ -73,7 +73,7 @@ npx playwright test -g "complete valid checkout"
 
 ---
 
-## 📋 Test Coverage Summary
+## Test Coverage Summary
 
 ### `login.spec.js` – 22 Tests
 | Category | Count |
@@ -120,7 +120,7 @@ npx playwright test -g "complete valid checkout"
 
 ---
 
-## 🏗️ Design Patterns
+## Design Patterns
 
 - **Page Object Model (POM)** — Each page has its own class encapsulating all locators and actions
 - **Centralized constants** — Credentials, selectors, and product data in `utils/constants.js`
@@ -130,7 +130,7 @@ npx playwright test -g "complete valid checkout"
 
 ---
 
-## ⚠️ Known Defects Identified
+## Known Defects Identified
 
 | ID | Area | Description |
 |----|------|-------------|
