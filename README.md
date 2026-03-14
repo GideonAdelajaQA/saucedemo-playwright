@@ -4,8 +4,7 @@
 > Application Under Test: [https://www.saucedemo.com](https://www.saucedemo.com)  
 > Tool: [Playwright](https://playwright.dev) (JavaScript / Node.js)
 
----
-
+Playwright results link (includes screenshots and videos) : http://localhost:9323/
 ## Structure
 
 ```
